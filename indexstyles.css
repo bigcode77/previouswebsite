@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+html, body {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+body {
+	background-color: snow;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	color: darkgray;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: darkgray;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+#lefttext {
+	padding-top: 3%;
+	float: left;
+	margin-left: 10%;
+}
+
+#righttext {
+	padding-top: 5.1%;
+	float: right;
+	margin-right: 10%;
+}
+
+#topblock {
+	padding-bottom: 15%;
+}
+
+#bottomblock {
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-bottom: 10%;
+	padding-top: 3%;
+}
+
+a {
+	color: darkgray;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	color: darkgray;
+}
